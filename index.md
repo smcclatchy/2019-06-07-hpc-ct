@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "Introduction to High Performance Computing"
-address: "The Jackson Laboratory for Genomic Medicine, Room 2440, 10 Discovery Dr, Farmington CT"
+address: "Holt Conference Room, The Jackson Laboratory for Genomic Medicine, 10 Discovery Dr, Farmington CT"
 country: "us"
 language: "en"
 latlng: "41.732433,-72.79360"
