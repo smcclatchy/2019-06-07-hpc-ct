@@ -10,8 +10,8 @@ humandate: "June 7, 2019"
 humantime: "9:00 am - 3:00 pm"
 startdate: 2019-06-07
 enddate: 2019-06-07
-instructor: ["Jason Macklin"]
-helper: ["TBD"]
+instructor: ["David McKenzie", "Aaron McDivitt", "Jason Macklin"]
+helper: [""]
 email: ["susan.mcclatchy@jax.org", "jason.macklin@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 60589800725
