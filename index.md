@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "Introduction to High Performance Computing"
-address: "The Jackson Laboratory for Genomic Medicine, Room 2440, 10 Discovery Dr, Farmington CT"
+address: "Holt Conference Room, The Jackson Laboratory for Genomic Medicine, 10 Discovery Dr, Farmington CT"
 country: "us"
 language: "en"
 latlng: "41.732433,-72.79360"
@@ -10,7 +10,7 @@ humandate: "June 7, 2019"
 humantime: "9:00 am - 3:00 pm"
 startdate: 2019-06-07
 enddate: 2019-06-07
-instructor: ["Jason Macklin", "Dave McKenzie", "Aaron McDivitt"]
+instructor: ["David McKenzie", "Aaron McDivitt", "Jason Macklin"]
 helper: [""]
 email: ["susan.mcclatchy@jax.org", "jason.macklin@jax.org"]
 collaborative_notes:  https://pad.carpentries.org/2019-06-07-hpc-ct
